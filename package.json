@@ -35,7 +35,7 @@
     "chai": "^2.2.0",
     "chai-as-promised": "^4.3.0",
     "rewire": "^2.3.1",
-    "supertest": "*",
+    "supertest": "git+https://github.com/KitchenMate/supertest.git",
     "when": "3.7.2",
 
     "body-parser": "~1.12.3",
