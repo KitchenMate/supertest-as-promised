@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/WhoopInc/supertest-as-promised",
   "peerDependencies": {
-    "supertest": "*"
+    "supertest": "git+https://github.com/KitchenMate/supertest.git"
   },
   "devDependencies": {
     "chai": "^2.2.0",
